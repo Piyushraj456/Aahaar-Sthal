@@ -1,36 +1,44 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# AahaarSthal 🍽️
 
-## Getting Started
+AahaarSthal is a business place search application that helps users discover the best restaurants and culinary experiences in their area. Leveraging the power of the Google Maps API, this app provides a seamless and interactive way to explore delicious meal options. With a focus on user experience, AahaarSthal is built with modern web technologies to ensure responsiveness and aesthetic appeal.
 
-First, run the development server:
+![Aahaar Sthal Screenshot](https://github.com/Piyushraj456/Aahaar-Sthal/blob/main/Screenshot%202024-10-02%20232137.png)
+![Aahaar Sthal Screenshot](https://github.com/Piyushraj456/Aahaar-Sthal/blob/main/Screenshot%202024-10-02%20232322.png)
+![Aahaar Sthal Screenshot](https://github.com/Piyushraj456/Aahaar-Sthal/blob/main/Screenshot%202024-10-02%20232357.png)
+![Aahaar Sthal Screenshot](https://github.com/Piyushraj456/Aahaar-Sthal/blob/main/Screenshot%202024-10-02%20232425.png)
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## Tech Stack 🛠️
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+| Technology        | Description                                            |
+|-------------------|--------------------------------------------------------|
+| **Next.js**       | A React framework for building server-side rendered applications. |
+| **TypeScript**    | A superset of JavaScript that adds static types for improved code quality. |
+| **Tailwind CSS**  | A utility-first CSS framework for designing responsive UIs quickly. |
+| **DaisyUI**       | A component library for Tailwind CSS that simplifies UI design. |
+| **Google Maps API** | API for integrating maps and location-based services. |
+| **React**         | A JavaScript library for building user interfaces.     |
+| **Node.js**       | A JavaScript runtime for building server-side applications. |
+| **Express.js**    | A web application framework for Node.js, used for handling API requests. |
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Introduction
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+AahaarSthal is your one-stop destination for delicious meals and culinary experiences. At Aahaar Sthal, we believe that every meal should be a celebration of flavor and freshness. Our menu is a delightful blend of traditional and contemporary dishes, crafted with the finest ingredients sourced locally.
 
-## Learn More
+Made with ❤️ by Piyush Raj
 
-To learn more about Next.js, take a look at the following resources:
+## Features 🌟
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- **User-friendly Interface**: Intuitive design for easy navigation and exploration.
+- **Search Functionality**: Quickly find restaurants and culinary experiences in your area.
+- **Map Integration**: Seamless use of [Google Maps](https://developers.google.com/maps/documentation) for location-based searches.
+- **Responsive Design**: Fully responsive interface for all devices.
+- **Modern UI Components**: Utilizes [DaisyUI](https://daisyui.com/docs/) for aesthetically pleasing components.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## Getting Started 🚀
 
-## Deploy on Vercel
+To get a local copy of the project up and running, follow these steps:
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+1. Clone the repository:
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+   ```bash
+   git clone https://github.com/yourusername/aahaarsthal.git
